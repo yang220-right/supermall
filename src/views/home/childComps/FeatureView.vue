@@ -1,0 +1,28 @@
+<template>
+    <div class='feature-view'>
+      <a href="https://act.mogujie.com/zzlx67">
+        <img src="~assets/img/home/recommend_bg.jpg" alt="">
+      </a>
+    </div>
+</template>
+
+<script>
+
+
+export default {
+  name:'FeatureView',
+  components:{
+ 
+  }
+};
+</script>
+
+<style scoped>
+
+/* .feature-view, */
+/* .feature-view a, */
+.feature-view img{
+  width: 100%;
+}
+
+</style>
